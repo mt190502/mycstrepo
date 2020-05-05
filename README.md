@@ -1,3 +1,3 @@
-# i3Exit
+# i3-exit
 
-i3exit with blurlock on Archlinux
+i3-exit with blurlock on Archlinux
