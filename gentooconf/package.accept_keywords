@@ -1,0 +1,3 @@
+media-video/ffmpeg ~amd64
+media-libs/libva-intel-media-driver ~amd64
+media-libs/intel-mediasdk ~amd64

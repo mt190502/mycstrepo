@@ -1,0 +1,57 @@
+app-admin/eselect vim-syntax
+app-arch/libarchive lz4 lzo
+app-arch/zstd lz4
+app-crypt/libsecret tpm
+app-crypt/qca gcrypt gpg logger nss pkcs11
+app-editors/vim lua perl terminal
+app-text/poppler curl
+dev-lang/python bluetooth
+dev-libs/libpcre2 pcre32
+dev-libs/openssl asm sslv3
+dev-qt/qtdeclarative vulkan
+dev-qt/qtgui vulkan
+dev-qt/qtnetwork connman networkmanager
+dev-qt/qtwayland vulkan
+kde-plasma/kwin multimedia screencast
+kde-plasma/plasma-desktop emoji
+kde-plasma/plasma-firewall -ufw firewalld
+kde-plasma/plasma-meta -sddm colord discover
+kde-plasma/plasma-nm modemmanager
+kde-plasma/plasma-workspace screencast
+media-libs/freetype harfbuzz utils
+media-libs/gst-plugins-bad qsv
+media-libs/libcanberra gstreamer gtk2 pulseaudio
+media-libs/libsdl2 gles2 jack sndio xscreensaver
+media-libs/mesa d3d9 opencl vaapi vdpau vulkan vulkan-overlay
+media-libs/opus custom-modes
+media-libs/phonon -vlc
+media-libs/tiff webp
+media-plugins/alsa-plugins ffmpeg jack pulseaudio
+media-sound/pulseaudio-daemon equalizer fftw gstreamer jack
+media-video/ffmpeg amr cpudetection fontconfig jack libass opencl opus pulseaudio qsv samba ssh vdpau vpx webp x265
+media-video/vlc fontconfig jack mtp nfs v4l x265
+net-libs/gnutls sslv2 sslv3
+net-libs/libtirpc kerberos
+media-video/pipewire echo-cancel jack-client pipewire-alsa sound-server
+net-fs/samba json winbind zeroconf
+net-misc/curl brotli ldap kerberos nss samba ssh sslv3 telnet websockets
+net-misc/networkmanager -nss audit iptables
+net-misc/openssh kerberos
+net-misc/wget cookie-check idn metalink uuid
+net-print/cups kerberos openssl zeroconf
+sys-apps/coreutils multicall
+sys-apps/pciutils dns
+sys-apps/systemd audit cryptsetup curl homed http iptables tpm
+sys-apps/util-linux magic
+sys-apps/xdg-desktop-portal geolocation screencast
+sys-auth/pambase gnome-keyring homed mktemp pam_ssh
+sys-devel/gcc go objc objc++ valgrind zstd
+sys-devel/clang-toolchain-symlinks
+sys-fs/cryptsetup ssh urandom
+sys-kernel/linux-firmware compress initramfs
+sys-libs/glibc compile-locales
+sys-libs/pam filecaps audit
+sys-libs/readline utils
+x11-libs/gtk+ colord vim-syntax
+x11-misc/colord argyllcms
+
